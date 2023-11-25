@@ -1,0 +1,5 @@
+# Choosing a Location for an Oil Well
+
+| Course Section               | Objective                                                                                              | Conclusion                                                                                                                           | Key Project Keywords                  | Used Libraries                        |
+|------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|
+| Machine Learning in Business | To determine the optimal oil field for development based on geological survey data. | The research recommends developing the geo_data_1 region: the probability of losses is up to 1.2%, and the average profit is the highest among the regions. | regression, business model development, bootstrap | Pandas, Python, scipy, matplotlib, sklearn |
