@@ -1,0 +1,5 @@
+# Protecting Customer Personal Data
+
+| Course Section   | Objective                                                                                                            | Conclusion                                                                                                                                                             | Key Project Keywords     | Used Libraries          |
+|------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------|
+| Linear Algebra   | Develop a data transformation method that does not degrade the quality of machine learning models upon transformation. | The proposed algorithm accomplishes the task - multiplying the feature matrix by a random invertible matrix visually distorts the data, but the quality of regression remains unchanged. | Linear Algebra, Regression | Python, NumPy, Sklearn   |
